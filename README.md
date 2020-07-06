@@ -3,3 +3,5 @@ Collect and publish content for "97 things every C++ programmer should know"
 
 
 Test version only (so far)
+
+Everything on branch 'trunk'
